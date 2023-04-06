@@ -1,1 +1,1 @@
-# Statistics_Data_Science
+Implementing concepts of Stats using Python
